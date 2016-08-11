@@ -1,7 +1,7 @@
 The following exercise is a tech test. More information can be found here:
 
 https://github.com/makersacademy/course/blob/6fb0d475cdf0f4834ad77e8eb5b03cbfa1f82c72/week12/battleships_tech_test.md
-
+`````````````````````
 As a player
 So that I can prepare for the game
 I would like to place a ship in a board location
